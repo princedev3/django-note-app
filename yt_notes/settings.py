@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-1u66v$+2_z4p^=u5+o8^n510ogx(11do2(!b_o^b-pcne!yxxm
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://django-note-app-naxf.onrender.com","django-note-app-naxf.onrender.com"]
 
 
 # Application definition
