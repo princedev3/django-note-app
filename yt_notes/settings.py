@@ -78,7 +78,7 @@ TEMPLATES = [
 WSGI_APPLICATION = 'yt_notes.wsgi.application'
 
 CORS_ALLOWED_ORIGINS =[
-    "http://localhost:3000"
+    "https://note-app-react-chi.vercel.app/"
 ]
 
 # Database
